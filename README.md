@@ -1,13 +1,15 @@
-## 👋 Olá! Eu sou o Carlos 🚀
+## Olá, tudo certo?! 🚀
 
 ### 💻 Desenvolvedor apaixonado por tecnologia!
 
 - 🔭 Atualmente trabalhando em projetos de front-end e back-end.
 - 🌱 Aprendendo mais sobre DevOps e segurança.
-- 💬 Me pergunte sobre JavaScript, Node.js, HTML/CSS, Git...
+- 🎮 Jogando: CS 2, FiveM, Warzone, Day Z
+- 👨‍🎓 Cursando Ciência da Computação
+- 🧠 Adoro construir interfaces que melhoram a experiencia do usuario
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carloshsm7)
 
 
 ### 📊 Estatísticas
