@@ -3,8 +3,7 @@
 ### 💻 Desenvolvedor apaixonado por tecnologia!
 
 - 🔭 Atualmente sou estagiario na Câmara Municipal de Contagem.
-- 🌱 Aprendendo mais sobre DevOps e segurança.
-- 🎮 Jogando: CS 2, Warzone, Day Z e Forza 5
+- 🌱 Aprendendo mais sobre DevOps, segurança, infraestrutura.
 - 👨‍🎓 Cursando Ciência da Computação
 - 🧠 Adoro construir interfaces que melhoram a experiencia do usuario
 
